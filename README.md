@@ -1,2 +1,1 @@
-# HRAS
-Hostel Room Allocation System [Python]
+# Memory Allocation OS Project [Python]
